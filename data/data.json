@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "ticker": "AAPL",
+    "interval": "5min",
+    "startDate": "2023-01-01",
+    "endDate": "2023-01-07"
+  },
+  "data": [
+    {
+      "timestamp": "2023-01-01 09:30:00",
+      "open": "150.10",
+      "high": "151.20",
+      "low": "149.90",
+      "close": "150.95",
+      "volume": "123456"
+    }
+  ]
+}
